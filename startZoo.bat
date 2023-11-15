@@ -1,0 +1,1 @@
+D:\Java\kafka\kafka_2.13-2.7.1\bin\windows\zookeeper-server-start.bat D:\Java\kafka\kafka_2.13-2.7.1\config\zookeeper.properties

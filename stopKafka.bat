@@ -1,0 +1,1 @@
+D:\Java\kafka\kafka_2.13-2.7.1\bin\windows\kafka-server-stop.bat
