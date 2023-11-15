@@ -1,0 +1,2 @@
+this is first  message to Kafka
+this is second message to Kafka
